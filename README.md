@@ -56,3 +56,12 @@ Smallest viable change. Abstract only at rule of three. Optimize only after prof
 ---
 
 <sub>Purpose-built from Idaho.</sub>
+
+
+---
+
+## OpenClaw Content Studio Blueprint
+
+A full architecture and implementation blueprint for an autonomous content studio (OpenClaw + Remotion + Nano Banana 2 + multi-platform publishing) is available under:
+
+- `docs/openclaw-content-studio/README.md`
