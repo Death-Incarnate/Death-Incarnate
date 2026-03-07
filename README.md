@@ -1,67 +1,47 @@
-```
- ____             _   _       ___                                  _
-|  _ \  ___  __ _| |_| |__   |_ _|_ __   ___ __ _ _ __ _ __   __ _| |_ ___
-| | | |/ _ \/ _` | __| '_ \   | || '_ \ / __/ _` | '__| '_ \ / _` | __/ _ \
-| |_| |  __/ (_| | |_| | | |  | || | | | (_| (_| | |  | | | | (_| | ||  __/
-|____/ \___|\__,_|\__|_| |_| |___|_| |_|\___\__,_|_|  |_| |_|\__,_|\__\___|
-```
+# Death-Incarnate
 
-**Chris Schwieters** — U.S. Army Veteran
+> Portfolio & Professional Profile
 
-Infrastructure engineer. Security operator. Building autonomous systems that monitor, defend, and optimize themselves.
+**Infrastructure Engineer | Security Specialist | Agentic AI Architect**
 
----
+U.S. Army Veteran with expertise in building purpose-built systems with zero bloat. Specialization in distributed infrastructure, defensive security, and autonomous AI systems.
 
-### What I Run
+## 🔗 Connect
 
-```
-Machine    Death-Incarnate
-CPU        AMD Ryzen 9 9950X3D — 16C/32T, 144MB L3
-GPU        NVIDIA RTX 5070 Ti — PCIe Gen5 x16
-Memory     64GB DDR5
-Storage    Dual NVMe (930GB + 3.7TB)
-Network    10GbE (Aquantia AQC113CS)
-OS         CachyOS (Arch) — Kernel 6.19, PREEMPT_DYNAMIC
-Scheduler  scx_bpfland (sched-ext BPF)
-```
+- **Website**: https://death-incarnate.pages.dev
+- **Twitter**: [@DeadManAI](https://twitter.com/DeadManAI)
+- **Email**: deadmanposts@gmail.com
+- **Education**: Student | Idaho, United States
 
-### What I Build
+## 📦 Projects
 
-**Self-Monitoring Infrastructure** — Health checks, thermal monitoring, network surveillance, automated alerting, system profiling. One ecosystem repo runs everything. 5-minute monitoring cycles. NASA-grade fault detection with tiered recovery.
+| Project | Focus | Status |
+|---------|-------|--------|
+| [necromancer](./../../necromancer) | Autonomous social media engine | 🔴 Private |
+| [wraith](./../../wraith) | AI backend systems & utilities | 🔴 Private |
+| [vigil](./../../vigil) | Infrastructure monitoring & security | 🔴 Private |
+| [aicreatoru](./../../aicreatoru) | AI content creation suite | 🔴 Private |
+| [elfiechat](./../../elfiechat) | Conversational AI platform | 🔴 Private |
+| [minimax-experts](./../../minimax-experts) | Expert agent prompts dataset | 🟢 Public |
 
-**MCP Server Ecosystem** — Custom Model Context Protocol servers giving AI agents direct control over system telemetry, home devices, network infrastructure, and cloud services. 8 servers, 50+ tools.
+## 🛠️ Tech Stack
 
-**Edge Computing** — Cloudflare Workers with AI inference (12 endpoints), Durable Objects, D1 storage, Zero Trust networking, and automated deployment pipelines.
+**Languages**: Python, TypeScript, Shell
+**Specialties**: Distributed Systems, Security, AI/ML, DevOps
+**Infrastructure**: Kubernetes, Docker, Linux (CachyOS), Cloud Platforms
+**AI**: LLM Integration, Multi-Agent Systems, Autonomous Workflows
 
-**Security Operations** — Credential validation, vulnerability research, attack surface mapping. Offensive security with defensive infrastructure.
+## 🔐 Security & Compliance
 
-### Stack
+- 2FA Enabled on GitHub ✅
+- GPG-signed commits ✅
+- All projects follow security best practices
+- Infrastructure-as-Code principles throughout
 
-```
-Systems    Bash, Python, systemd, BPF
-Cloud      Cloudflare (Workers, Pages, D1, Tunnel, AI)
-AI/Agents  Claude Code, MCP, FastMCP
-Infra      Vercel, AWS, Cloudflare Zero Trust
-Monitors   Custom (health-check.sh, 5 subsystem monitors)
-Profiling  perf, FlameGraph, custom benchmark suite
-Network    ASUS GT-BE98 Pro (WiFi 7), 10GbE backbone
-```
+## 📝 License
 
-### Philosophy
-
-Build it right or don't build it. Zero bloat, zero dead code, zero orphan configs. Every component traces to a requirement. If it doesn't serve a purpose, it gets deleted.
-
-Smallest viable change. Abstract only at rule of three. Optimize only after profiling.
+Projects are individually licensed. See repository READMEs for details.
 
 ---
 
-<sub>Purpose-built from Idaho.</sub>
-
-
----
-
-## OpenClaw Content Studio Blueprint
-
-A full architecture and implementation blueprint for an autonomous content studio (OpenClaw + Remotion + Nano Banana 2 + multi-platform publishing) is available under:
-
-- `docs/openclaw-content-studio/README.md`
+*Built with purpose. Zero bloat. Everything matters.*
