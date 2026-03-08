@@ -1,12 +1,12 @@
 <div align="center">
 
-# ☠ Death-Incarnate
+# ☠ DEAD EMPIRE
 
-**Infrastructure Engineer · Security Specialist · Agentic AI Architect**
+**One-person AI empire. Military doctrine. Autonomous execution.**
 
-U.S. Army Veteran building autonomous systems with zero bloat.
+*Built by a U.S. Army Veteran who believes one person with the right AI agents can outperform a team of 50.*
 
-[![Website](https://img.shields.io/badge/Portfolio-death--incarnate.pages.dev-000?style=flat-square&logo=cloudflare)](https://death-incarnate.pages.dev)
+[![Website](https://img.shields.io/badge/HQ-death--incarnate.pages.dev-000?style=flat-square&logo=cloudflare)](https://death-incarnate.pages.dev)
 [![Twitter](https://img.shields.io/badge/@DeadManAI-000?style=flat-square&logo=x)](https://twitter.com/DeadManAI)
 [![GitHub Pro](https://img.shields.io/badge/GitHub-Pro-000?style=flat-square&logo=github)](https://github.com/Death-Incarnate)
 
@@ -14,29 +14,40 @@ U.S. Army Veteran building autonomous systems with zero bloat.
 
 ---
 
-### What I Build
+### The Mission
 
-I design and deploy **autonomous agent systems** — AI that operates independently, makes decisions, and executes without hand-holding. Everything runs on free-tier infrastructure because constraints breed better engineering.
+I'm building an **autonomous social media empire** — a system of AI agents that scout trends, write content, distribute across platforms, engage communities, and optimize performance. All orchestrated through military-style command structure. All running on free-tier infrastructure.
 
-**Current focus:** Multi-agent orchestration, security-first AI architecture, and building systems that work while I sleep.
+This isn't a side project. It's a proof of concept that **AI automation can replace entire departments** for solo operators.
 
-### Tech
+### The Stack
 
 ```
-Languages     Python · TypeScript · Shell · Rust
-AI/ML         Multi-Agent Systems · LLM Integration · Autonomous Workflows
-Security      Defensive Security · OPSEC · Threat Modeling · Hardening
-Infrastructure Linux (CachyOS) · Docker · Cloudflare · Self-Hosted
+Agents        Multi-agent orchestration (OpenClaw) · Autonomous workflows
+Languages     Python · TypeScript · Shell
+AI/ML         LLM pipelines · Content generation · Trend intelligence
+Security      GPG-signed commits · OPSEC · Threat modeling · Hardening
+Infrastructure Linux (CachyOS) · Cloudflare · Redis · Self-hosted everything
 ```
 
-### Open Source
+### What's Here
 
-| Repo | What It Is |
-|------|-----------|
+| Repo | Purpose |
+|------|---------|
+| [DevPulseAIv3](https://github.com/Death-Incarnate/DevPulseAIv3) | Cloud-native intelligence platform — aggregates developer signals through multi-agent LLM pipeline |
+| [beifong](https://github.com/Death-Incarnate/beifong) | Personalized content & podcast engine — AI-powered information pipeline |
+| [vigil](https://github.com/Death-Incarnate/vigil) | Real-time infrastructure monitoring and alerting system |
+| [necromancer](https://github.com/Death-Incarnate/necromancer) | Autonomous social media engine — 6 platforms, real-time optimization |
+| [wraith](https://github.com/Death-Incarnate/wraith) | AI-powered backend systems and distributed utility library |
+| [netsnap](https://github.com/Death-Incarnate/netsnap) | CLI for switching network profiles — one command instead of 7 clicks |
 | [minimax-experts](https://github.com/Death-Incarnate/minimax-experts) | 464 expert AI agent prompts — specialization dataset |
-| [Death-Incarnate](https://github.com/Death-Incarnate/Death-Incarnate) | You're reading it |
 
-*More coming. The private repos are where the real work happens.*
+### The Doctrine
+
+- **Free tier or die.** Constraints breed better engineering.
+- **Every commit is signed.** GPG key `B7066317F3A1EFDA`. No exceptions.
+- **Ship fast, ship clean.** No bloat, no half-baked output.
+- **Automate everything.** If a human has to do it twice, an agent should do it forever.
 
 ### Stats
 
@@ -48,17 +59,10 @@ Infrastructure Linux (CachyOS) · Docker · Cloudflare · Self-Hosted
 
 </div>
 
-### Security
-
-- GPG-signed commits · Key `B7066317F3A1EFDA`
-- 2FA enabled
-- Push protection active
-- Dependabot + security updates on all repos
-
 ---
 
 <div align="center">
 
-*Built with purpose. Zero bloat. Everything matters.*
+*One person. AI agents. Zero excuses.*
 
 </div>
